@@ -1,4 +1,8 @@
 Genderizer
+根据人的名字来判断出是男是女，非常有趣的一个项目
+
+
+
 ======================
 
 Genderizer is a language independent module which tries to detect gender by looking at given first names and/or analyzing sample texts. 
